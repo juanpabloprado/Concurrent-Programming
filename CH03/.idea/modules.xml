@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03_05/begin/AtomicOperationDemo/AtomicOperationDemo.iml" filepath="$PROJECT_DIR$/03_05/begin/AtomicOperationDemo/AtomicOperationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_05/end/AtomicOperationDemo/AtomicOperationDemo1.iml" filepath="$PROJECT_DIR$/03_05/end/AtomicOperationDemo/AtomicOperationDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_05/end/AtomicVariableDemo/AtomicVariableDemo.iml" filepath="$PROJECT_DIR$/03_05/end/AtomicVariableDemo/AtomicVariableDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_05/begin/AtomicVariableDemo/AtomicVariableDemo1.iml" filepath="$PROJECT_DIR$/03_05/begin/AtomicVariableDemo/AtomicVariableDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CH03.iml" filepath="$PROJECT_DIR$/.idea/CH03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_07/begin/begin.iml" filepath="$PROJECT_DIR$/03_07/begin/begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_04/begin/begin1.iml" filepath="$PROJECT_DIR$/03_04/begin/begin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_02/begin/begin2.iml" filepath="$PROJECT_DIR$/03_02/begin/begin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_06/begin/begin3.iml" filepath="$PROJECT_DIR$/03_06/begin/begin3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_06/end/end.iml" filepath="$PROJECT_DIR$/03_06/end/end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_02/end/end1.iml" filepath="$PROJECT_DIR$/03_02/end/end1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_07/end/end2.iml" filepath="$PROJECT_DIR$/03_07/end/end2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_04/end/end3.iml" filepath="$PROJECT_DIR$/03_04/end/end3.iml" />
+    </modules>
+  </component>
+</project>
